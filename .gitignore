@@ -1,0 +1,3 @@
+server-ts/node_modules/
+server-ts/ormconfig.json
+web-ts/node_modules/
